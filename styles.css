@@ -34,7 +34,7 @@ main {
   padding: 1.5vmax;
   grid-template-columns: repeat(10, 1fr);
   grid-template-rows: repeat(10, 1fr);
-  animation: shake .4s .55s ease-out;
+  animation: shake .4s .51s ease-out;
 }
 
 @keyframes shake {
